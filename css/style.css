@@ -423,8 +423,9 @@ body {
   width: 50%;
   background-image: url('../assets/snapcamp_screenshot.jpg');
   background-position: center;
-  background-size: cover;
+  background-size: 90%;
   float: left;
+  background-repeat: no-repeat;
 }
 .containerSkillsSets {
   float: left;
