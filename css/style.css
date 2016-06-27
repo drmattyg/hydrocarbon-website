@@ -574,14 +574,14 @@ body {
 .itemTeam2 {
   height: 321px;
   width: 270px;
-  background-image: url('../assets/team/rocketkar.jpg');
+  background-image: url('../assets/team/rokitka_photo.jpg');
   background-position: center;
   background-size: cover;
 }
 .itemTeam3 {
   height: 321px;
   width: 270px;
-  background-image: url('../assets/team/team3.jpg');
+  background-image: url('../assets/team/alphadeb.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -1663,7 +1663,7 @@ body {
 .clients .overlayClients {
   height: 553px;
   width: 100%;
-  position: abslute;
+  position: absolute;
   background-color: rgba(0, 0, 0, 0.8);
 }
 .clients .overlayClients ul {
@@ -1946,14 +1946,14 @@ footer ul li a:hover {
   .itemTeam2 {
     height: 321px;
     width: 100%;
-    background-image: url('../assets/team/rocketkar.jpg');
+    background-image: url('../assets/team/rokitka_photo.jpg');
     background-position: center;
     background-size: cover;
   }
   .itemTeam3 {
     height: 321px;
     width: 100%;
-    background-image: url('../assets/team/team3.jpg');
+    background-image: url('../assets/team/alphadeb.jpg');
     background-position: center;
     background-size: cover;
   }
@@ -2213,14 +2213,14 @@ footer ul li a:hover {
   .itemTeam2 {
     height: 321px;
     width: 100%;
-    background-image: url('../assets/team/rocketkar.jpg');
+    background-image: url('../assets/team/rokitka_photo.jpg');
     background-position: center;
     background-size: cover;
   }
   .itemTeam3 {
     height: 321px;
     width: 100%;
-    background-image: url('../assets/team/team3.jpg');
+    background-image: url('../assets/team/alphadeb.jpg');
     background-position: center;
     background-size: cover;
   }
@@ -2503,14 +2503,14 @@ footer ul li a:hover {
   .itemTeam2 {
     height: 321px;
     width: 100%;
-    background-image: url('../assets/team/rocketkar.jpg');
+    background-image: url('../assets/team/rokitka_photo.jpg');
     background-position: center;
     background-size: cover;
   }
   .itemTeam3 {
     height: 321px;
     width: 100%;
-    background-image: url('../assets/team/team3.jpg');
+    background-image: url('../assets/team/alphadeb.jpg');
     background-position: center;
     background-size: cover;
   }
@@ -2801,7 +2801,7 @@ footer ul li a:hover {
   }
   .itemTeam {
     height: 321px;
-    width: 100%;
+    width: 481px;
     background-image: url('../assets/team/matt.jpg');
     background-position: center;
     background-size: cover;
@@ -2809,14 +2809,14 @@ footer ul li a:hover {
   .itemTeam2 {
     height: 321px;
     width: 100%;
-    background-image: url('../assets/team/rocketkar.jpg');
+    background-image: url('../assets/team/rokitka_photo.jpg');
     background-position: center;
     background-size: cover;
   }
   .itemTeam3 {
     height: 321px;
     width: 100%;
-    background-image: url('../assets/team/team3.jpg');
+    background-image: url('../assets/team/alphadeb.jpg');
     background-position: center;
     background-size: cover;
   }
