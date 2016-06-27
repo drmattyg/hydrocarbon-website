@@ -326,7 +326,7 @@ body {
 
 
 .about {
-  height: 1109px;
+  min-height: 900px;
   width: 100%;
   background-color: #fff;
 }
@@ -1884,7 +1884,7 @@ footer ul li a:hover {
 @media screen and (min-width: 992px) and (max-width: 1199px) {
   /* about us section */
   .about {
-    height: 1300px!important;
+    height: 600px!important;
   }
   .itemAbout:nth-child(1) {
     height: 250px;
@@ -2747,7 +2747,7 @@ footer ul li a:hover {
   }
   /* about us section */
   .about {
-    height: 1300px!important;
+    height: 300px!important;
   }
   .itemAbout:nth-child(1) {
     height: 250px;
@@ -2801,7 +2801,7 @@ footer ul li a:hover {
   }
   .itemTeam {
     height: 321px;
-    width: 481px;
+    width: 100%;
     background-image: url('../assets/team/matt.jpg');
     background-position: center;
     background-size: cover;
